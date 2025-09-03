@@ -10,7 +10,7 @@ $mail->Username = 'jswan';                            // SMTP username
 $mail->Password = 'secret';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
 
-$mail->From = 'from@example.com';
+$mail->From = 'nimaetemadi4@gmail.com';
 $mail->FromName = 'Mailer';
 $mail->addAddress('josh@example.net', 'Josh Adams');  // Add a recipient
 $mail->addAddress('ellen@example.com');               // Name is optional
